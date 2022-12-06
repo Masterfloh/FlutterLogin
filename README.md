@@ -15,5 +15,5 @@ The Login page was created in Android Studio using a Google Pixel 3a and Google 
 ## Contributing
 
 - Feel free to support this project by starring this repo!
-- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/masterfloh/FlutterLogin/main/CONTRIBUTING.md) before submitting a pull request!
+- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/masterfloh/FlutterLogin/blob/main/CONTRIBUTING.md) before submitting a pull request!
  
