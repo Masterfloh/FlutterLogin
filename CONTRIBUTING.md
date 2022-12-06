@@ -2,8 +2,9 @@
 
 Below are some general rules & guidelines to keep in mind before and while contributing : 
 
-1. Is your Contribution fit for Disitribution? Is there Data leaking aynwhere or is there a Security Issue? Are the steps one can take to make the feature more redundant? 
-2. Is your Contribution relevant? Does it increase the overall function of the app?
+1. Is your Contribution fit for Disitribution? Is there Data leaking anywhere or is there perhaps a Security Issue? 
+2. Are the steps one can take to make the feature more redundant? Redundancy is key when building Web apps! 
+3. Is your Contribution relevant? Does it increase the overall functionality of the app?
 
 ## How to Contribute
 
